@@ -454,7 +454,7 @@ button.button_afdfd9 /* small buttons */,
 	content: '';
 	height: 12px;
 	width: 12px;
-	border-radius: 12px;
+	border-radius: 16px;
 }
 [class^='winButton']:hover::after {
 	filter: brightness(0.8);
